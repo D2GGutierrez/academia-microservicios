@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+academia:
+  mensaje: "Configuracion de cursos cargada correctamente"
