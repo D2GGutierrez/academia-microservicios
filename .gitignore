@@ -1,0 +1,32 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+**/target/
+
+# Eclipse y otros IDE
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Configuraciones locales con datos privados
+**/application-local.yml
+**/application-local.yaml
+**/application-local.properties
